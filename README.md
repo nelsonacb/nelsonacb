@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer 😁 from Cuba</h3>
 
 <div align="center">
-    <img src="logo.png" alt="logo" width="65%" heigth="30%">
+    <img src="Logo.png" alt="logo" width="65%" heigth="30%">
 </div> <br/>
 
 - 🌱 I’m currently learning **TypeScript and Next**
