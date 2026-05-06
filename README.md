@@ -2,8 +2,8 @@
 
 ### A passionate full-stack developer
 
-<div align="center">
-    <img src="Me.png" alt="logo" width="35%" heigth="60%">
+<div align="left">
+    <img src="Me.png" alt="logo" width="45%" heigth="80%">
 </div> <br/>
 
 - 🔭 I'm currently working on **Inventory full-stack app **
