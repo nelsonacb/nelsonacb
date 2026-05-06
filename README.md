@@ -3,7 +3,7 @@
 ### A passionate full-stack developer
 
 <div align="center">
-    <img src="Logo.png" alt="logo" width="35%" heigth="60%">
+    <img src="Me.png" alt="logo" width="35%" heigth="60%">
 </div> <br/>
 
 - 🔭 I'm currently working on **Inventory full-stack app **
